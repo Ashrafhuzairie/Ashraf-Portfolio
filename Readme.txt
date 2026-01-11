@@ -1,35 +1,35 @@
 # Ashraf Portfolio ☁️
 
 This repository hosts the source code for my personal portfolio website.  
-The portfolio highlights my professional experience, technical projects, and growing expertise in **Cloud Engineering**, **Infrastructure Automation**, and **AI-Driven Systems**.
+The portfolio highlights my professional experience, technical projects, and growing expertise in cloud engineering, infrastructure automation, and AI-driven systems.
 
 ---
 
-## 👤 **Professional Profile**
+## 👤 Professional Profile
 
-I am **Ashraf Huzairie**, with a Master of Computer Science background and a strong technical foundation in **Cloud Platforms**, **DevOps Practices**, and **Applied Artificial Intelligence**.
+I am Ashraf Huzairie, with a Master of Computer Science background and a strong technical foundation in cloud platforms, DevOps practices, and applied artificial intelligence.
 
-I currently work in the **Digital Engineering Domain** as a **BIM Modeller**, where I collaborate on technology-driven solutions and automation initiatives.  
-My career goal is to transition into a **Cloud Engineer / Cloud Architect** role, focusing on **scalable**, **secure**, and **production-ready** cloud systems.
-
----
-
-## 🚀 **What This Portfolio Showcases**
-
-- **Cloud and infrastructure-related projects**
-- **AI and data-driven applications**
-- **Academic research and applied engineering work**
-- **Technical skills, tools, and certifications in progress**
+I currently work in the Digital Engineering domain as a BIM Modeller, where I collaborate on technology-driven solutions and automation initiatives.  
+My career goal is to transition into a Cloud Engineer / Cloud Architect role, focusing on scalable, secure, and production-ready cloud systems.
 
 ---
 
-## 🛠️ **Technical Stack**
+## 🚀 What This Portfolio Showcases
 
-### **Frontend**
+- Cloud and infrastructure-related projects
+- AI and data-driven applications
+- Academic research and applied engineering work
+- Technical skills, tools, and certifications in progress
+
+---
+
+## 🛠️ Technical Stack
+
+### Frontend
 - HTML5
 - CSS
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 - GitHub Pages  
 - GitHub Actions (CI/CD)  
 
@@ -47,7 +47,7 @@ My career goal is to transition into a **Cloud Engineer / Cloud Architect** role
 - Docker – Application containerization  
 - Kubernetes – Container orchestration and workload management  
 
-### **Practices**
+### Practices
 - Version control with Git  
 - Infrastructure as Code (IaC)  
 - CI/CD pipeline automation  
