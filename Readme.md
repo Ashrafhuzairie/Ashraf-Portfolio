@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ashraf Portfolio ☁️
 
 This repository hosts the source code for my personal portfolio website.  
