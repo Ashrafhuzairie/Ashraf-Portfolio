@@ -477,7 +477,7 @@ section {
    ================================ */
 #projects .card {
   border-radius: 12px;
-  border: 1px solid #eee;
+  border: 1px solid #ffffff;
   transition: all 0.3s ease;
   background-color: #fff;
 }
@@ -491,7 +491,7 @@ section {
   background-color: transparent;
   font-weight: 600;
   font-size: 0.9rem;
-  color: #6c757d;
+  color: #f0f0f0;
   padding-bottom: 0;
 }
 
@@ -534,7 +534,7 @@ section {
 }
 
 #projects .card:not(.shadow-sm) {
-  border-left: 4px solid #adb5bd;
+  border-left: 4px solid #03111f;
 }
 
 /* Improve spacing on mobile */
